@@ -1,0 +1,3 @@
+Eine kleine Anmerkung zu den Trainierten Modellen in dem PDF File. Leider bin ich beim erstellen der PDF durch einadner gekommen und habe ein Teil der Netzte doppelt trainert, 
+wodruch die hohen accuracy von anfang an zustande kommen. Da dieser fehler jedoch erst kurz vor der Abgabe bemerkt wurde konnte ich diesen Fehler nicht mehr beheben. 
+Bei der eigentliche durchführung auf der auch die Evaluation beruht wurden die Netze jedoch nur einmal ausgeführt. Dieser Fehler betrifft nur die PDF des Notebooks.
